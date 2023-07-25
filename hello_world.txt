@@ -1,1 +1,3 @@
 Hello, world! I am testing Git and Github.
+
+I am going to stage this next, then commit it.
